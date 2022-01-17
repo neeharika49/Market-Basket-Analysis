@@ -1,1 +1,1 @@
-# Market-Basket-Analysis
+# Finding frequent itemsets using apriori algorithm
